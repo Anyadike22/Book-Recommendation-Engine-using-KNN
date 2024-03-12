@@ -21,3 +21,6 @@ Model Training: Train the KNN model using the preprocessed data. The model learn
 Recommendation Generation: Given a user's reading history or preferences, the model identifies the K nearest neighbors (users with similar tastes) and recommends books that they have enjoyed but the user has not yet read.
 
 Evaluation: Evaluate the performance of the recommendation engine using metrics such as accuracy, precision, recall, and F1-score. This step helps assess the effectiveness of the model and identify areas for improvement.
+
+# License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this code for any purpose.
